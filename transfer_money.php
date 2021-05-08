@@ -78,15 +78,6 @@ $data= mysqli_fetch_array($result,MYSQLI_ASSOC);
                 <div class="card">
                   <h5 class="card-header text-white ">Receiver Details</h5>
                     <div class="card-body bg-light">
-                        
-                            <!-- <div class="form-group">
-                                <label for="name2">Full Name</label>
-                                <input type="text" class="form-control" name="name2"  placeholder="Enter full name">
-                            </div>
-                            <div class="form-group">
-                                <label for="email2">Email ID</label>
-                                <input type="text" class="form-control" name="email2"  placeholder="Enter email">
-                            </div>                 -->
                             <select name="to" class="form-control" required>
                                 <option value="" disabled selected>Choose</option>
                                 <?php
