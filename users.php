@@ -11,11 +11,7 @@
     <link href="css/styles.css" rel="stylesheet">
     <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="node_modules/bootstrap-social/bootstrap-social.css">
-    <!-- <script type="text/javascript">
-        function preback(){window.history.forward();}
-        setTimeout("preback()",0);
-        window.onunload = function(){null};
-    </script> -->
+  
 </head>
 <body>
     <?php
